@@ -1,0 +1,19 @@
+01:53:55 [main] INFO  automation.pageobjects.PendingDocRevisionStage - activity selected-> submit Doc Activity Selection
+01:53:56 [main] INFO  automation.pageobjects.PendingReviewStage - activity selected-> QA review complete and then save and proceed button click
+01:53:56 [main] INFO  automation.pageobjects.ElectronicSignatureForm - e sign form appeared
+01:53:57 [main] INFO  automation.pageobjects.ElectronicSignatureForm - user id and password passed and signup button clicked in e-sign form.
+01:53:59 [main] INFO  automation.pageobjects.PendingHODReviewStage - activity selected-> HOD Review Complete and then save and proceed button click
+01:53:59 [main] INFO  automation.pageobjects.ElectronicSignatureForm - e sign form appeared
+01:53:59 [main] INFO  automation.pageobjects.ElectronicSignatureForm - user id and password passed and signup button clicked in e-sign form.
+01:54:02 [main] INFO  automation.pageobjects.ElectronicSignatureForm - e sign form appeared
+01:54:02 [main] INFO  automation.pageobjects.ElectronicSignatureForm - user id and password passed and signup button clicked in e-sign form.
+01:54:04 [main] INFO  automation.pageobjects.SOPDocumentPage - family button clicked
+01:54:05 [main] INFO  automation.testcomponents.TestUtils - Closing the browser.
+15:48:09 [main] INFO  automation.testcomponents.ExtentReporterNG - report generated
+15:48:10 [main] INFO  automation.testcomponents.TestUtils - Log4j2 initialized explicitly.
+15:48:10 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - start
+15:48:10 [TestNG-tests-1] INFO  automation.testcomponents.TestUtils - Initializing WebDriver.
+15:48:16 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - Navigating to the login page.
+15:48:20 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - test start
+15:48:20 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - Logging in with username: test@qssence.com, language: 1234567890, timeZone: {}.
+15:48:23 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - test success

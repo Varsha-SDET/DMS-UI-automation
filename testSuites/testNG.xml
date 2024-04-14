@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Suite">
+
+    <listeners>
+        <listener class-name="automation.testcomponents.Listeners"/>
+    </listeners>
+
+    <test thread-count="5" name="Login Test">
+        <classes>
+            <class name="automation.tests.LoginTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite> <!-- Suite -->

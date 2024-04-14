@@ -1,0 +1,22 @@
+15:48:23 [TestNG-tests-1] INFO  automation.testcomponents.TestUtils - Closing the browser.
+15:48:23 [TestNG-tests-1] INFO  automation.testcomponents.TestUtils - Initializing WebDriver.
+15:48:25 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - Navigating to the login page.
+15:48:29 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - test start
+15:48:29 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - Logging in with username: user@qssence.com, language: 1234567890, timeZone: {}.
+15:48:34 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - test success
+15:48:34 [TestNG-tests-1] INFO  automation.testcomponents.TestUtils - Closing the browser.
+15:48:34 [TestNG-tests-1] INFO  automation.testcomponents.TestUtils - Initializing WebDriver.
+15:48:36 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - Navigating to the login page.
+15:48:43 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - test start
+15:48:43 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - Logging in with username: user@qssence.com, language: 1234567890, timeZone: {}.
+15:48:52 [TestNG-tests-1] INFO  automation.pageobjects.HeaderComponent - logout from software y clicking through header
+15:48:52 [TestNG-tests-1] INFO  automation.pageobjects.LoginPage - logout successfully by clicking on logout from header-> user button
+15:48:52 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - test success
+15:48:52 [TestNG-tests-1] INFO  automation.testcomponents.TestUtils - Closing the browser.
+15:48:52 [TestNG-tests-1] INFO  automation.testcomponents.Listeners - finish
+18:21:10 [main] INFO  automation.testcomponents.ExtentReporterNG - report generated
+18:21:10 [main] INFO  automation.testcomponents.TestUtils - Log4j2 initialized explicitly.
+18:21:10 [main] INFO  automation.testcomponents.Listeners - start
+18:21:11 [main] INFO  automation.testcomponents.TestUtils - Initializing WebDriver.
+18:21:14 [main] INFO  automation.pageobjects.LoginPage - Navigating to the login page.
+18:21:19 [main] INFO  automation.testcomponents.Listeners - test start
